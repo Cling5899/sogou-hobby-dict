@@ -15,7 +15,7 @@ Default data dir: `C:\Users\Admin\Desktop\个人词库`. If the current workspac
 1. Read `sources/football.yaml` and `sources/cycling.yaml` before changing words.
 2. Prefer 中文维基常用译名. Do not invent translations.
 3. After YAML edits, run `python scripts/build.py` from the repo root.
-4. Tell the user to re-import `dist/gbk/全部.txt` in Sogou. Do not claim the IME was updated automatically.
+4. Tell the user to re-import Desktop `sogou_all.txt` (ASCII path). Do not claim the IME was updated automatically.
 
 ## Add a word
 
@@ -56,4 +56,4 @@ Merge useful words into YAML by hand. Do not dump scel output straight into dist
 
 ## After
 
-Say what was added or moved, print rebuild counts, and remind: 搜狗 → 词库 → 导入文本词库 → `dist/gbk/全部.txt`.
+Say what was added or moved, print rebuild counts, and remind: 搜狗 → 词库 → 导入文本词库 → 桌面 `sogou_all.txt`。 If import fails, try `dist/gbk/sogou_smoke.txt` first.

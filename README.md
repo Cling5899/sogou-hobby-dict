@@ -15,12 +15,12 @@ python scripts/build.py
 
 | 文件 | 用途 |
 | --- | --- |
-| `dist/gbk/全部.txt` | 导入搜狗（推荐） |
-| `dist/gbk/足球_曼城.txt` | 只导入足球 |
-| `dist/gbk/自行车.txt` | 只导入自行车 |
+| 桌面 `sogou_all.txt` | 导入搜狗（推荐，英文路径） |
+| `dist/gbk/sogou_all.txt` | 同上，留在仓库里 |
+| `dist/gbk/sogou_smoke.txt` | 只有 3 词，导入失败时先测这个 |
 | `dist/utf8/*.txt` | Git 对照，不要拿去导入 |
 
-导入步骤见 [docs/import-sogou.md](docs/import-sogou.md)。
+导入步骤见 [docs/import-sogou.md](docs/import-sogou.md)。若提示「导入词库失败」，多半是换行/间隔号/超长词，重新 `python scripts/build.py` 后再导桌面那份。
 
 ## 加词
 
@@ -34,7 +34,7 @@ python scripts/build.py
   source: 中文维基
 ```
 
-译名以中文维基常用写法为准，不要自造。连字符用 ASCII `-`，避免 GBK 导不进去。然后重新 `python scripts/build.py`，再在搜狗里导入一次。
+译名以中文维基常用写法为准，不要自造。YAML 可以写间隔号；导入文件会去掉符号并限制 2–10 个汉字。然后重新 `python scripts/build.py`，再导入桌面上的 `sogou_all.txt`。
 
 ## 官方 scel
 
