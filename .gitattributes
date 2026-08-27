@@ -1,0 +1,3 @@
+# Keep Sogou import files byte-stable on Windows checkouts
+dist/gbk/** -text
+*.scel binary
