@@ -1,0 +1,276 @@
+# 自行车赛事 / 车手 中文词条
+# 偏波加查常参赛历与一线对手；译名以中文维基及车队中文站为准
+version: 2026-08-27
+entries:
+  # --- 大环赛 ---
+  - word: 环法
+    pinyin: huan fa
+    aliases: [环法自行车赛, 环法单车赛]
+    tags: [race]
+    source: 中文维基
+  - word: 环意
+    pinyin: huan yi
+    aliases: [环意大利, 环意大利自行车赛]
+    tags: [race]
+    source: 中文维基
+  - word: 环西
+    pinyin: huan xi
+    aliases: [环西班牙, 环西班牙自行车赛]
+    tags: [race]
+    source: 中文维基
+  - word: 三大环赛
+    pinyin: san da huan sai
+    tags: [race]
+    source: 中文维基
+
+  # --- 波加查常参加 / 古典赛 ---
+  - word: 白路赛
+    pinyin: bai lu sai
+    aliases: [斯特拉德比安凯]
+    tags: [race]
+    source: 阿联酋航空车队中文站
+  - word: 阿联酋巡回赛
+    pinyin: a lian qiu xun hui sai
+    aliases: [阿联酋旅游赛]
+    tags: [race]
+    source: 大陆媒体
+  - word: 蒂雷诺-亚得里亚海赛
+    pinyin: di lei nuo ya de li ya hai sai
+    aliases: [双海赛, 蒂雷诺亚得里亚海]
+    tags: [race]
+    source: 中文维基
+  - word: 列日-巴斯托涅-列日
+    pinyin: lie ri ba si tuo nie lie ri
+    aliases: [列日, 老妇人]
+    tags: [race]
+    source: 中文维基
+  - word: 环罗曼蒂
+    pinyin: huan luo man di
+    tags: [race]
+    source: 阿联酋航空车队中文站
+  - word: 米兰-圣雷莫
+    pinyin: mi lan sheng lei mo
+    aliases: [米圣]
+    tags: [race]
+    source: 中文维基
+  - word: 环法兰德斯
+    pinyin: huan fa lan de si
+    aliases: [环弗兰德斯]
+    tags: [race]
+    source: 中文维基
+  - word: 巴黎-鲁贝
+    pinyin: ba li lu bei
+    aliases: [北方地狱]
+    tags: [race]
+    source: 中文维基
+  - word: 环伦巴第
+    pinyin: huan lun ba di
+    aliases: [伦巴第, 落叶赛, 环伦巴第赛]
+    tags: [race]
+    source: 中文维基
+  - word: 瓦隆之箭
+    pinyin: wa long zhi jian
+    aliases: [弗莱什瓦隆]
+    tags: [race]
+    source: 中文维基
+  - word: 阿姆斯特尔黄金赛
+    pinyin: a mu si te er huang jin sai
+    tags: [race]
+    source: 中文维基
+  - word: 五大古典赛
+    pinyin: wu da gu dian sai
+    aliases: [纪念碑赛]
+    tags: [race]
+    source: 中文维基
+  - word: 世锦赛
+    pinyin: shi jin sai
+    aliases: [公路自行车世界锦标赛, 世界锦标赛]
+    tags: [race]
+    source: 中文维基
+  - word: 奥运会公路赛
+    pinyin: ao yun hui gong lu sai
+    tags: [race]
+    source: 常用
+  - word: 世界巡回赛
+    pinyin: shi jie xun hui sai
+    aliases: [UCI世界巡回赛]
+    tags: [race]
+    source: 中文维基
+
+  # --- 环法常见专名 ---
+  - word: 黄衫
+    pinyin: huang shan
+    tags: [race]
+    source: 中文维基
+  - word: 绿衫
+    pinyin: lv shan
+    tags: [race]
+    source: 中文维基
+  - word: 圆点衫
+    pinyin: yuan dian shan
+    aliases: [波点衫]
+    tags: [race]
+    source: 中文维基
+  - word: 白衫
+    pinyin: bai shan
+    tags: [race]
+    source: 中文维基
+  - word: 香榭丽舍大街
+    pinyin: xiang xie li she da jie
+    aliases: [香街]
+    tags: [race]
+    source: 中文维基
+  - word: 阿尔普迪埃
+    pinyin: a er pu di ai
+    aliases: [阿尔普迪埃兹]
+    tags: [race]
+    source: 阿联酋航空车队中文站
+
+  # --- 车队 ---
+  - word: 阿联酋航空车队
+    pinyin: a lian qiu hang kong che dui
+    aliases: [阿联酋航空-XRG, 阿联酋航空XRG]
+    tags: [team]
+    source: 车队中文站
+  - word: 维斯玛车队
+    pinyin: wei si ma che dui
+    tags: [team]
+    source: 大陆媒体
+  - word: 阿尔佩辛车队
+    pinyin: a er pei xin che dui
+    tags: [team]
+    source: 大陆媒体
+
+  # --- 车手 ---
+  - word: 波加查
+    pinyin: bo jia cha
+    aliases: [塔代伊·波加查, 塔德伊·波加查]
+    tags: [rider]
+    source: 中文维基
+  - word: 范德普尔
+    pinyin: fan de pu er
+    aliases: [马蒂厄·范德普尔]
+    tags: [rider]
+    source: 中文维基
+  - word: 温格高
+    pinyin: wen ge gao
+    aliases: [约纳斯·温格高, 文格高, 约纳斯·文格高]
+    tags: [rider]
+    source: 中文维基
+  - word: 埃文普尔
+    pinyin: ai wen pu er
+    aliases: [雷姆科·埃文普尔, 埃费内普尔, 雷姆科·埃费内普尔]
+    tags: [rider]
+    source: 大陆媒体/中文维基
+  - word: 罗格利奇
+    pinyin: luo ge li qi
+    aliases: [普里莫日·罗格利奇]
+    tags: [rider]
+    source: 中文维基
+  - word: 范阿尔特
+    pinyin: fan a er te
+    aliases: [沃特·范阿尔特, 温格]
+    tags: [rider]
+    source: 中文维基
+  - word: 菲利普森
+    pinyin: fei li pu sen
+    aliases: [贾斯珀·菲利普森]
+    tags: [rider]
+    source: 中文维基
+  - word: 阿约索
+    pinyin: a yue suo
+    aliases: [胡安·阿约索]
+    tags: [rider]
+    source: 大陆媒体
+  - word: 阿尔梅达
+    pinyin: a er mei da
+    aliases: [若昂·阿尔梅达, 阿尔马达]
+    tags: [rider]
+    source: 中文维基
+  - word: 卡洛斯·罗德里格斯
+    pinyin: ka luo si luo de li ge si
+    tags: [rider]
+    source: 大陆媒体
+  - word: 德尔托罗
+    pinyin: de er tuo luo
+    aliases: [伊萨克·德尔托罗]
+    tags: [rider]
+    source: 车队中文站
+  - word: 卡拉帕斯
+    pinyin: ka la pa si
+    aliases: [理查德·卡拉帕斯, 卡雷帕兹]
+    tags: [rider]
+    source: 中文维基
+  - word: 皮德科克
+    pinyin: pi de ke ke
+    aliases: [托姆·皮德科克]
+    tags: [rider]
+    source: 大陆媒体
+  - word: 佩德森
+    pinyin: pei de sen
+    aliases: [马兹·佩德森]
+    tags: [rider]
+    source: 中文维基
+  - word: 阿拉菲利普
+    pinyin: a la fei li pu
+    aliases: [朱利安·阿拉菲利普]
+    tags: [rider]
+    source: 中文维基
+  - word: 萨甘
+    pinyin: sa gan
+    aliases: [彼得·萨甘]
+    tags: [rider]
+    source: 中文维基
+  - word: 弗鲁姆
+    pinyin: fu lu mu
+    aliases: [克里斯托弗·弗鲁姆]
+    tags: [rider]
+    source: 中文维基
+  - word: 尼巴利
+    pinyin: ni ba li
+    aliases: [温琴佐·尼巴利]
+    tags: [rider]
+    source: 中文维基
+  - word: 卡文迪什
+    pinyin: ka wen di shi
+    aliases: [马克·卡文迪什]
+    tags: [rider]
+    source: 中文维基
+  - word: 默克斯
+    pinyin: mo ke si
+    aliases: [埃迪·默克斯]
+    tags: [rider]
+    source: 中文维基
+  - word: 伊诺
+    pinyin: yi nuo
+    aliases: [贝尔纳·伊诺]
+    tags: [rider]
+    source: 中文维基
+  - word: 安杜兰
+    pinyin: an du lan
+    aliases: [米格尔·安杜兰]
+    tags: [rider]
+    source: 中文维基
+  - word: 安克蒂尔
+    pinyin: an ke di er
+    aliases: [雅克·安克蒂尔]
+    tags: [rider]
+    source: 中文维基
+  - word: 亚当·耶茨
+    pinyin: ya dang ye ci
+    tags: [rider]
+    source: 中文维基
+  - word: 西蒙·耶茨
+    pinyin: xi meng ye ci
+    tags: [rider]
+    source: 中文维基
+  - word: 塞萨斯
+    pinyin: sai sa si
+    aliases: [保罗·塞萨斯]
+    tags: [rider]
+    source: 车队中文站
+  - word: 维伦斯
+    pinyin: wei lun si
+    aliases: [蒂姆·维伦斯]
+    tags: [rider]
+    source: 车队中文站

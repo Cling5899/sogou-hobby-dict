@@ -1,0 +1,417 @@
+# 曼城 / 英超 中文词条
+# 译名以中文维基及大陆足球媒体常用写法为准
+# 现役阵容核对：2026-08-26 英维基 2026–27 Manchester City F.C. season
+version: 2026-08-27
+entries:
+  # --- 俱乐部 / 球场 ---
+  - word: 曼城
+    pinyin: man cheng
+    aliases: [曼彻斯特城, 曼彻斯特城足球俱乐部, 蓝月亮, 城民]
+    tags: [club]
+    source: 中文维基
+  - word: 伊蒂哈德球场
+    pinyin: yi di ha de qiu chang
+    aliases: [伊蒂哈德, 阿提哈德]
+    tags: [club]
+    source: 中文维基
+  - word: 城市足球集团
+    pinyin: cheng shi zu qiu ji tuan
+    tags: [club]
+    source: 中文维基
+  - word: 曼城青训
+    pinyin: man cheng qing xun
+    tags: [club]
+    source: 常用
+
+  # --- 赛事 ---
+  - word: 英超
+    pinyin: ying chao
+    aliases: [英格兰超级联赛, 英格兰超级足球联赛]
+    tags: [competition]
+    source: 中文维基
+  - word: 欧冠
+    pinyin: ou guan
+    aliases: [欧洲冠军联赛]
+    tags: [competition]
+    source: 中文维基
+  - word: 足总杯
+    pinyin: zu zong bei
+    aliases: [英格兰足总杯]
+    tags: [competition]
+    source: 中文维基
+  - word: 联赛杯
+    pinyin: lian sai bei
+    aliases: [英格兰联赛杯]
+    tags: [competition]
+    source: 中文维基
+  - word: 社区盾
+    pinyin: she qu dun
+    aliases: [英格兰社区盾]
+    tags: [competition]
+    source: 中文维基
+
+  # --- 教练 ---
+  - word: 瓜迪奥拉
+    pinyin: gua di ao la
+    aliases: [佩普·瓜迪奥拉, 佩普瓜迪奥拉]
+    tags: [coach, historic]
+    source: 中文维基
+  - word: 马雷斯卡
+    pinyin: ma lei si ka
+    aliases: [恩佐·马雷斯卡, 恩佐马雷斯卡]
+    tags: [coach, current]
+    source: 中文维基
+  - word: 曼奇尼
+    pinyin: man qi ni
+    aliases: [罗伯托·曼奇尼]
+    tags: [coach, historic]
+    source: 中文维基
+  - word: 佩莱格里尼
+    pinyin: pei lai ge li ni
+    aliases: [曼努埃尔·佩莱格里尼]
+    tags: [coach, historic]
+    source: 中文维基
+
+  # --- 2026/27 现役 ---
+  - word: 多纳鲁马
+    pinyin: duo na lu ma
+    aliases: [吉安路易吉·多纳鲁马]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 贝蒂内利
+    pinyin: bei di nei li
+    aliases: [马库斯·贝蒂内利]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 鲁利
+    pinyin: lu li
+    aliases: [赫罗尼莫·鲁利]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 迪亚斯
+    pinyin: di ya si
+    aliases: [鲁本·迪亚斯]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 格伊
+    pinyin: ge yi
+    aliases: [马克·格伊, 盖伊, 马克·盖伊]
+    tags: [mancity, current]
+    source: 大陆媒体/中文维基
+  - word: 艾特-努里
+    pinyin: ai te nu li
+    aliases: [拉扬·艾特-努里, 艾特努里]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 雷斯
+    pinyin: lei si
+    aliases: [维托尔·雷斯]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 格瓦迪奥尔
+    pinyin: ge wa di ao er
+    aliases: [约什科·格瓦迪奥尔]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 努内斯
+    pinyin: nu nei si
+    aliases: [马特乌斯·努内斯]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 胡萨诺夫
+    pinyin: hu sa nuo fu
+    aliases: [阿卜杜科迪尔·胡萨诺夫, 库萨诺夫]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 威尔逊-埃斯布兰德
+    pinyin: wei er xun ai si bu lan de
+    aliases: [乔舒亚·威尔逊-埃斯布兰德, 威尔逊埃斯布兰德]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 布雷思韦特
+    pinyin: bu lei si wei te
+    aliases: [凯登·布雷思韦特]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 里科·刘易斯
+    pinyin: li ke liu yi si
+    aliases: [刘易斯]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 安德森
+    pinyin: an de sen
+    aliases: [埃利奥特·安德森]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 科瓦契奇
+    pinyin: ke wa qi qi
+    aliases: [马特奥·科瓦契奇]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 谢尔基
+    pinyin: xie er ji
+    aliases: [拉扬·谢尔基]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 多库
+    pinyin: duo ku
+    aliases: [热雷米·多库]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 格拉利什
+    pinyin: ge la li shi
+    aliases: [杰克·格拉利什]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 埃切维里
+    pinyin: ai qie wei li
+    aliases: [克劳迪奥·埃切维里]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 布阿迪
+    pinyin: bu a di
+    aliases: [阿尤布·布阿迪]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 奥莱利
+    pinyin: ao lai li
+    aliases: [尼科·奥莱利, 奥赖利]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 蒙加
+    pinyin: meng jia
+    aliases: [杰里米·蒙加]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 塞梅尼奥
+    pinyin: sai mei ni ao
+    aliases: [安托万·塞梅尼奥]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 福登
+    pinyin: fu deng
+    aliases: [菲尔·福登]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 桑巴
+    pinyin: sang ba
+    aliases: [弗洛伊德·桑巴]
+    tags: [mancity, current]
+    source: 大陆媒体
+  - word: 马尔穆什
+    pinyin: ma er mu shi
+    aliases: [奥马尔·马尔穆什]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 哈兰德
+    pinyin: ha lan de
+    aliases: [埃尔林·哈兰德, 埃尔林哈兰德, 厄尔林哈兰德]
+    tags: [mancity, current]
+    source: 中文维基
+  - word: 麦艾杜
+    pinyin: mai ai du
+    aliases: [瑞安·麦艾杜]
+    tags: [mancity, current]
+    source: 大陆媒体
+
+  # --- 历史核心 / 近年离队 ---
+  - word: 阿圭罗
+    pinyin: a gui luo
+    aliases: [塞尔吉奥·阿圭罗, 阿奎罗, 昆阿]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 大卫·席尔瓦
+    pinyin: da wei xi er wa
+    aliases: [大卫席尔瓦]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 亚亚·图雷
+    pinyin: ya ya tu lei
+    aliases: [亚亚图雷]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 孔帕尼
+    pinyin: kong pa ni
+    aliases: [文森特·孔帕尼]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 哲科
+    pinyin: zhe ke
+    aliases: [埃丁·哲科]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 京多安
+    pinyin: jing duo an
+    aliases: [伊尔卡伊·京多安]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 马赫雷斯
+    pinyin: ma he lei si
+    aliases: [里亚德·马赫雷斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 斯特林
+    pinyin: si te lin
+    aliases: [拉希姆·斯特林]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 热苏斯
+    pinyin: re su si
+    aliases: [加布里埃尔·热苏斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 萨内
+    pinyin: sa nei
+    aliases: [勒鲁瓦·萨内]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 沃克
+    pinyin: wo ke
+    aliases: [凯尔·沃克]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 斯通斯
+    pinyin: si tong si
+    aliases: [约翰·斯通斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 埃德森
+    pinyin: ai de sen
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 德布劳内
+    pinyin: de bu lao nei
+    aliases: [凯文·德布劳内]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 贝尔纳多·席尔瓦
+    pinyin: bei er na duo xi er wa
+    aliases: [B席, 贝席]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 罗德里
+    pinyin: luo de li
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 拉波尔特
+    pinyin: la bo er te
+    aliases: [艾梅里克·拉波尔特]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 坎塞洛
+    pinyin: kan sai luo
+    aliases: [若昂·坎塞洛]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 费兰·托雷斯
+    pinyin: fei lan tuo lei si
+    aliases: [费兰托雷斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 阿尔瓦雷斯
+    pinyin: a er wa lei si
+    aliases: [朱利安·阿尔瓦雷斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 阿克
+    pinyin: a ke
+    aliases: [内森·阿克]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 阿坎吉
+    pinyin: a kan ji
+    aliases: [曼努埃尔·阿坎吉]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 菲利普斯
+    pinyin: fei li pu si
+    aliases: [卡尔文·菲利普斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 萨维尼奥
+    pinyin: sa wei ni ao
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 赖因德斯
+    pinyin: lai yin de si
+    aliases: [蒂贾尼·赖因德斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 尼科·冈萨雷斯
+    pinyin: ni ke gang sa lei si
+    aliases: [冈萨雷斯]
+    tags: [mancity, historic]
+    source: 大陆媒体
+  - word: 特维斯
+    pinyin: te wei si
+    aliases: [卡洛斯·特维斯]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 巴洛特利
+    pinyin: ba luo te li
+    aliases: [马里奥·巴洛特利]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 乔·哈特
+    pinyin: qiao ha te
+    aliases: [哈特]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 萨巴莱塔
+    pinyin: sa ba lai ta
+    aliases: [巴勃罗·萨巴莱塔]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 费尔南迪尼奥
+    pinyin: fei er nan di ni ao
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 奥塔门迪
+    pinyin: ao ta men di
+    aliases: [尼古拉斯·奥塔门迪]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 津琴科
+    pinyin: jin qin ke
+    aliases: [亚历山大·津琴科]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 帕尔默
+    pinyin: pa er mo
+    aliases: [科尔·帕尔默]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 奥尔特加
+    pinyin: ao er te jia
+    aliases: [斯特凡·奥尔特加]
+    tags: [mancity, historic]
+    source: 中文维基
+  - word: 布拉沃
+    pinyin: bu la wo
+    aliases: [克劳迪奥·布拉沃]
+    tags: [mancity, historic]
+    source: 中文维基
+
+  # --- 英超常见对手（打字高频） ---
+  - word: 曼联
+    pinyin: man lian
+    aliases: [曼彻斯特联]
+    tags: [club]
+    source: 中文维基
+  - word: 阿森纳
+    pinyin: a sen na
+    tags: [club]
+    source: 中文维基
+  - word: 利物浦
+    pinyin: li wu pu
+    tags: [club]
+    source: 中文维基
+  - word: 切尔西
+    pinyin: qie er xi
+    tags: [club]
+    source: 中文维基
+  - word: 热刺
+    pinyin: re ci
+    aliases: [托特纳姆热刺]
+    tags: [club]
+    source: 中文维基
